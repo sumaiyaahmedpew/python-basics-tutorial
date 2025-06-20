@@ -25,4 +25,21 @@ Each topic includes code examples, outputs, and simple explanations to help rein
 - ✅ Bitwise Operators
 - ✅ Using Math Module
 
+### 🚀 Day 3 Topics
+- ✅ Swapping Two Variables
+- ✅ Command Line User Input
+- ✅ If-Elif-Else Statements
+- ✅ While Loop
+- ✅ For Loop
+- ✅ Break, Continue, and Pass
+- ✅ Break vs Continue vs Pass
+- ✅ Printing Pattern
+- ✅ For-Else Loop
+- ✅ Prime Number Checker
+
 ---
+
+🧾 Code files are included and organized by topic number in this repository.
+
+> 🛠️ Stay tuned for more updates as I continue learning!
+
