@@ -1,6 +1,6 @@
 # 🐍 Python Basics Tutorial
 
-This repository contains Python concepts I’ve been learning from the YouTube playlist: [Learn Python Programming](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3).
+This repository contains Python concepts I’ve been learning from a YouTube playlist...
 
 Each topic includes code examples, outputs, and simple explanations to help reinforce learning.
 
@@ -37,9 +37,16 @@ Each topic includes code examples, outputs, and simple explanations to help rein
 - ✅ For-Else Loop
 - ✅ Prime Number Checker
 
----
+### ⚙️ Day 4 Topics
+- ✅ Arrays in Python (using list)
+- ✅ Taking Array Values from User
+- ✅ Why NumPy?
+- ✅ Installing NumPy in PyCharm (manual step)
+- ✅ Creating Arrays in NumPy
+- ✅ Copying Arrays in NumPy
+- ✅ Matrix Operations using NumPy
 
-🧾 Code files are included and organized by topic number in this repository.
+---
 
 > 🛠️ Stay tuned for more updates as I continue learning!
 
